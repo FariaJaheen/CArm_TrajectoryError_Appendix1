@@ -21,15 +21,3 @@ The dataset provides detailed Excel sheets documenting **trajectory errors acros
 - Evaluation of **patient condition effects**, with overweight cases showing increased errors.  
 
 ---
-
-
-## License
-This dataset is made available for **academic and research purposes only** under the MIT License. Please acknowledge the author when used in publications or derivative works.
-
----
-
-## Contact
-For questions or collaborations, please contact:  
-**Faria Jaheen**  
-University of Ottawa  
-[Your professional email here]
