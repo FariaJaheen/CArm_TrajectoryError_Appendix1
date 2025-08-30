@@ -1,8 +1,8 @@
-# Modular C-arm Fluoroscopy: Appendix 1 Dataset
+# Appendix 1: Trajectory Analysis (Overweight Patient versus Normal Weight Patient Conditions)
 
 This repository hosts the **Appendix 1** from the doctoral thesis *"Kinematic Modeling, Trajectory Planning, and Machine Learning for integrated C-arm fluoroscopy and operating table systems".*  
 
-The dataset provides detailed Excel sheets documenting **trajectory errors across multiple configurations and motion profiles**, with a specific emphasis on the **impact of overweight patient conditions**. These results highlight the variation in positional errors across trajectories such as polynomial, trapezoidal, minimum jerk, and minimum snap, and demonstrate how patient-specific conditions influence intraoperative imaging accuracy.
+The dataset provides detailed Excel sheets documenting **trajectory errors across multiple configurations and motion profiles**, with a specific emphasis on the **impact of both overweight patient and normal weight conditions**. These results highlight the variation in positional errors across trajectories such as polynomial, trapezoidal, minimum jerk, and minimum snap, and demonstrate how patient-specific conditions influence intraoperative imaging accuracy.
 
 ---
 
