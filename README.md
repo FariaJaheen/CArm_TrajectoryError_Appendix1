@@ -7,7 +7,7 @@ The dataset provides detailed Excel sheets documenting **trajectory errors acros
 ---
 
 ## Contents
-- **Appendix1.xlsx**  
+- **Appendix1**  
   Contains tabulated experimental data on positional errors under normal and overweight patient conditions across all system configurations.
 
 - **Documentation/**  
